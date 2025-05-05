@@ -31,6 +31,12 @@ Flutter-based web app for teachers to track grades. Integrated with a live API f
 
 ---
 
+---
+
+## 📁 About My Work
+
+Most of my code over the last few years lives in private GitLab repos hosted by my university. I’m in the process of migrating selected projects to GitHub so I can share the things I’m proud of. What’s here now is just the start.
+
 ## 🤝 Let’s Connect!
 
 - 📫 Email: samuel.hoffmann@wallawalla.edu
