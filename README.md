@@ -10,11 +10,11 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, Java, C++, Dart, JavaScript
-- **Web & APIs:** RESTful APIs, Node.js, React, Firebase
+- **Languages:** Python, C++, Dart, JavaScript
+- **Web & APIs:** RESTful APIs, Firebase
 - **Mobile:** Flutter, iOS (Swift basics)
-- **Tools:** Git, GitHub, GitLab, Linux, Docker
-- **Networking:** VLANs, firewall config, Home Assistant
+- **Tools:** Git, GitHub, GitLab, Docker
+- **Networking:** VLANs, Home Assistant
 - **Other:** Agile, Object-Oriented Design, Unit Testing
 
 ---
