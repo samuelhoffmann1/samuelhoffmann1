@@ -20,14 +20,21 @@ I like working on projects that make a difference, are practical tools, or simpl
 
 ## 🚀 Projects
 
-### 🧋 [Atlas Coffee Shop App](https://github.com/yourusername/atlas-coffee-app)
-Student-run ordering app for a campus coffee shop. Built with Flutter and Firebase. Includes SSO login, push notifications, and a reward system.
+### 🧋 [Atlas Coffee Shop App](https://atlas.cs.wallawalla.edu)  
+Student-run menu/announcement/rewards app for a campus coffee shop. Built with Flutter and Firebase. Includes SSO login, push notifications, and a reward system.
 
-### 🏡 [Home IoT Hub](https://github.com/yourusername/home-iot-hub)
+### 🧠 Language Interpreter Lab (F#)  
+Built a working interpreter for a mini-language using F# and functional programming principles. This was one of the most challenging projects in my degree, it pushed me to understand parsing, evaluation, and language design from the ground up.
+
+### 🏥 MAR Nursing Simulator  
+Collaborative software project for Walla Walla University’s nursing department. I contributed to backend refactors, implemented RESTful APIs, and helped improve the maintainability of the codebase. (Project owned by the department — I was a contributing developer.)
+
+### 🏡 Home IoT Hub  
 Home automation system using a virtualized Home Assistant server. Features secure network segmentation (VLANs, firewalls) and remote control from PC/phone.
 
-### 📊 [Gradebook App (Hackathon 1st Place)](https://github.com/yourusername/gradebook-app)
+### 📊 Gradebook App (Hackathon 1st Place)  
 Flutter-based web app for teachers to track grades. Integrated with a live API for real-time updates and secure login.
+
 
 ---
 
