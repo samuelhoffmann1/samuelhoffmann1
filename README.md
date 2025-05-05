@@ -1,10 +1,9 @@
 # Hi, I’m Samuel Hoffmann 👋
 
-🎓 I'm a Computer Science student at Walla Walla University (graduating 2025) passionate about writing clean, maintainable code that solves real problems.
+I'm a CS grad who likes to build practical stuff, mostly backend, APIs, and some full-stack projects. I’ve done a lot with Dart & Flutter, some firebase and networking, and I’m always looking to learn more, especially about system-level development.
 
-💻 I focus on backend development, APIs, and full-stack applications — with experience in mobile (Flutter), networking (Home Assistant), and system-level projects.
+I like working on projects that make a difference, are practical tools, or simply involve things I'm passionate about — coffee, backpacking, building relationships. Looking to join a team where I can grow, learn, and ship good code.
 
-🌲 I'm especially interested in mission-driven tech that improves daily life. Think: coffee, outdoor gear, media, and tools people love to use.
 
 ---
 
