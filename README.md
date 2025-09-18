@@ -23,7 +23,7 @@ I like working on projects that make a difference, are practical tools, or simpl
 Student-run menu/announcement/rewards app for a campus coffee shop. Built with Flutter and Firebase. Includes SSO login, push notifications, and a reward system.
 
 ### 🗂️ [Application Tracker](https://soupsoftware.org/)
-Full-stack job application tracker built with **React (TypeScript)**, **Node.js/Express**, and **PostgreSQL**. Supports **multi-user accounts** with individual job lists, **Google SSO** authentication, and secure API access. Deployed on **Linux** with **Docker** and **Cloudflare Tunnel**, with automated testing and deployment via **Jest, Supertest, and GitHub Actions**.
+Full-stack job application tracker built with React (TypeScript), Node.js/Express, and PostgreSQL. Supports multi-user accounts with individual job lists, Google SSO authentication, and secure API access. Deployed on Linux with Docker and Cloudflare Tunnel, with automated testing and deployment via Jest, Supertest, and GitHub Actions.
 
 ### 🏥 MAR Nursing Simulator  
 Collaborative software project for Walla Walla University’s nursing department. I contributed to backend refactors, implemented RESTful APIs, and helped improve the maintainability of the codebase. (Project owned by the department — I was a contributing developer.)
